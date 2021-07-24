@@ -1,16 +1,21 @@
-### Hi there 👋
+### 🌍 Social 🌍
+<p align="left">
+  <a href="https://instagram.com/yazilimfuryasi" target="blank"><img align="left" src="https://img.shields.io/badge/Instagram-242424?style=for-the-badge&logo=Instagram&logoColor=black&labelColor=fed142"/></a>
+  <a href="https://youtube.com/yazilimfuryasi" target="blank"><img align="left" src="https://img.shields.io/badge/Youtube-242424?style=for-the-badge&logo=Youtube&logoColor=black&labelColor=fed142"/></a>
+<a href="https://twitter.com/yazilimfuryasi" target="blank"><img align="left" src="https://img.shields.io/badge/Twitter-242424?style=for-the-badge&logo=Twitter&logoColor=black&labelColor=fed142"/></a>
+  <a href="https://facebook.com/yazilimfuryasi" target="blank"><img align="left" src="https://img.shields.io/badge/Facebook-242424?style=for-the-badge&logo=Facebook&logoColor=black&labelColor=fed142"/></a>
+  <a href="https://www.linkedin.com/company/yazilimfuryasi" target="blank"><img align="left" src="https://img.shields.io/badge/Linkedin-242424?style=for-the-badge&logo=Linkedin&logoColor=black&labelColor=fed142"/></a>
+</p>
 
-<!--
-**yazilimfuryasi/yazilimfuryasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br><br><br>
 
-Here are some ideas to get you started:
+### 📈 GitHub Analysis 📈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yazilimfuryasi&&show_icons=true&title_color=fed142&icon_color=40a8d3&text_color=daf7dc&bg_color=242424"/>
+<img height="180em" align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazilimfuryasi&theme=dark&hide_langs_below=4312&title_color=fed142&text_color=daf7dc&bg_color=242424"/>
+</p>
+
+
+<img src="https://komarev.com/ghpvc/?username=yazilimfuryasi&label=Profile views&color=green&style=flat-square" alt="yazilimfuryasi"/>
+<!-- <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC6wywOaCaB-Lemi6YMuHlUg?label=YouTube%20Channel%20Views&style=flat-square"> -->
