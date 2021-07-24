@@ -1,4 +1,12 @@
+<!-- <img align="left" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+ 
+
+<br><br><br>-->
+
+
 ### 🌍 Social 🌍
+<a href="https://yazilimfuryasi.com" target="blank"><img src="https://img.shields.io/website-up-down-green-red/http/yazilimfuryasi.com"/></a>
 <p align="left">
   <a href="https://instagram.com/yazilimfuryasi" target="blank"><img align="left" src="https://img.shields.io/badge/Instagram-242424?style=for-the-badge&logo=Instagram&logoColor=black&labelColor=fed142"/></a>
   <a href="https://youtube.com/yazilimfuryasi" target="blank"><img align="left" src="https://img.shields.io/badge/Youtube-242424?style=for-the-badge&logo=Youtube&logoColor=black&labelColor=fed142"/></a>
@@ -6,6 +14,10 @@
   <a href="https://facebook.com/yazilimfuryasi" target="blank"><img align="left" src="https://img.shields.io/badge/Facebook-242424?style=for-the-badge&logo=Facebook&logoColor=black&labelColor=fed142"/></a>
   <a href="https://www.linkedin.com/company/yazilimfuryasi" target="blank"><img align="left" src="https://img.shields.io/badge/Linkedin-242424?style=for-the-badge&logo=Linkedin&logoColor=black&labelColor=fed142"/></a>
 </p>
+
+
+
+
 
 <br><br><br>
 
