@@ -1,10 +1,3 @@
-<!-- <img align="left" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
- 
-
-<br><br><br>-->
-
-
 ## 🌍 Social Media 🌍
 <a href="https://yazilimfuryasi.com" target="blank"><img src="https://img.shields.io/website-up-down-green-red/http/yazilimfuryasi.com"/></a>
 <p align="left">
@@ -26,6 +19,3 @@
 
 ##
 <img src="https://komarev.com/ghpvc/?username=yazilimfuryasi&label=Profile views&color=green&style=flat-square" alt="yazilimfuryasi"/>
-
-
-<!-- <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC6wywOaCaB-Lemi6YMuHlUg?label=YouTube%20Channel%20Views&style=flat-square"> -->
