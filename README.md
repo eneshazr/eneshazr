@@ -1,5 +1,5 @@
 <p align="left">
-  <a href="https://yazilimfuryasi.com/" target="blank"><img align="left" src="https://img.shields.io/badge/yazılımfuryası.com-242424?style=for-the-badge&logo=Web&logoColor=black&labelColor=fed142"/></a>
+  <a href="https://eneshazir.com/" target="blank"><img align="left" src="https://img.shields.io/badge/EnesHAZIR.com-242424?style=for-the-badge&logo=Web&logoColor=black&labelColor=fed142"/></a>
   <a href="https://eneshazr.medium.com/" target="blank"><img align="left" src="https://img.shields.io/badge/Medium-242424?style=for-the-badge&logo=Medium&logoColor=black&labelColor=fed142"/></a>
   <a href="https://instagram.com/yazilimfuryasi" target="blank"><img align="left" src="https://img.shields.io/badge/Instagram-242424?style=for-the-badge&logo=Instagram&logoColor=black&labelColor=fed142"/></a>
   <a href="https://youtube.com/yazilimfuryasi" target="blank"><img align="left" src="https://img.shields.io/badge/Youtube-242424?style=for-the-badge&logo=Youtube&logoColor=black&labelColor=fed142"/></a>
