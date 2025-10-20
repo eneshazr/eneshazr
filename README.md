@@ -1,37 +1,44 @@
-<p align="left">
-  <a href="https://eneshazir.com/" target="blank"><img align="left" src="https://img.shields.io/badge/EnesHAZIR.com-242424?style=for-the-badge&logo=web&logoColor=black&labelColor=fed142"/></a>
-  <a href="https://eneshazr.medium.com/" target="blank"><img align="left" src="https://img.shields.io/badge/Medium-242424?style=for-the-badge&logo=Medium&logoColor=black&labelColor=fed142"/></a>
-  <a href="https://www.linkedin.com/in/eneshazr" target="blank"><img align="left" src="https://img.shields.io/badge/Linkedin-242424?style=for-the-badge&logo=Linkedin&logoColor=black&labelColor=fed142"/></a>
+<h1 align="center">✨ Enes HAZIR</h1>
+
+<p align="center">
+  <a href="https://eneshazir.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-242424?style=for-the-badge&logo=google-chrome&logoColor=fed142&labelColor=242424"></a>
+  <a href="https://eneshazr.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-242424?style=for-the-badge&logo=medium&logoColor=fed142&labelColor=242424"></a>
+  <a href="https://www.linkedin.com/in/eneshazr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-242424?style=for-the-badge&logo=linkedin&logoColor=fed142&labelColor=242424"></a>
 </p>
 
-<br>
+---
 
-## 🛠 Technologies & Tools
+<p align="center">Full-Stack Django Developer · Cloud Architect · DevOps Enthusiast</p>
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+---
 
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-OpenCV-informational?style=flat&logo=opencv&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Django-informational?style=flat&logo=django&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
+### 🧠 About  
+I design and develop **modern web applications** using **Django**, **PostgreSQL**, and **Docker**.  
+My focus is on building **secure, scalable, and maintainable systems** — from RESTful APIs to complete AWS-based deployments (EC2, RDS, S3, CloudFront, Nginx).  
+I value **clean architecture**, **automation**, and **performance optimization** in every project.
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/W-Wordpress-informational?style=flat&logo=wordpress&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+---
 
+### ⚙️ Tech Stack
 
-[//]: # (## 📈 GitHub Analysis)
+#### Backend  
+![Django](https://img.shields.io/badge/-Django-242424?style=flat&logo=django&logoColor=fed142)
+![DRF](https://img.shields.io/badge/-Django_REST_Framework-242424?style=flat&logo=django&logoColor=fed142)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-242424?style=flat&logo=postgresql&logoColor=fed142)
+![Redis](https://img.shields.io/badge/-Redis-242424?style=flat&logo=redis&logoColor=fed142)
 
-[//]: <p align="left">
-[//]: <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eneshazr&&show_icons=true&title_color=fed142&icon_color=40a8d3&text_color=daf7dc&bg_color=242424"/>
-[//]: <img height="180em" align="" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eneshazr&theme=dark&hide_langs_below=4312&title_color=fed142&text_color=daf7dc&bg_color=242424"/>
-[//]: </p>
+#### DevOps & Cloud  
+![Docker](https://img.shields.io/badge/-Docker-242424?style=flat&logo=docker&logoColor=fed142)
+![AWS](https://img.shields.io/badge/-AWS-242424?style=flat&logo=amazonaws&logoColor=fed142)
+![Nginx](https://img.shields.io/badge/-Nginx-242424?style=flat&logo=nginx&logoColor=fed142)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-242424?style=flat&logo=githubactions&logoColor=fed142)
 
+#### Frontend & Others  
+![HTML](https://img.shields.io/badge/-HTML5-242424?style=flat&logo=html5&logoColor=fed142)
+![CSS](https://img.shields.io/badge/-CSS3-242424?style=flat&logo=css3&logoColor=fed142)
+![JavaScript](https://img.shields.io/badge/-JavaScript-242424?style=flat&logo=javascript&logoColor=fed142)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-242424?style=flat&logo=bootstrap&logoColor=fed142)
+
+---
+
+<p align="center"><sub>© 2025 Enes HAZIR</sub></p>
